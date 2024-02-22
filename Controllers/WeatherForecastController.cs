@@ -8,7 +8,7 @@ namespace ASPNETCOREWEBAPI_GitHubDeployment_CICD.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Freezinggg", "Bracinggg", "Chillyyy", "Coolll", "Milddd", "Warmmm", "Balmyyy", "Hottt", "Swelteringgg", "Scorchinggg"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
